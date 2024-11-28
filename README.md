@@ -12,4 +12,6 @@ while(scanf(...))...
 数学基础往后写了几题
 
 ### 第三周
-数学基础还没写完
+[洛谷p8807](https://www.luogu.com.cn/problem/P8807)
+[题解](https://www.luogu.com.cn/article/l692ya4j)抽屉原理
+
