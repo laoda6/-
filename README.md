@@ -4,7 +4,9 @@
 数学确实要加强
 学到了些实用的方法，比如
 
+
 #define int long long
+
 while(scanf(...))...
 
 
@@ -13,5 +15,7 @@ while(scanf(...))...
 
 ### 第三周
 [洛谷p8807](https://www.luogu.com.cn/problem/P8807)
-[题解](https://www.luogu.com.cn/article/l692ya4j)抽屉原理
+
+[题解](https://www.luogu.com.cn/article/l692ya4j)
+抽屉原理
 
