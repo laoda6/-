@@ -11,7 +11,7 @@ while(scanf(...))...
 
 
 ### 第二周
-数学基础往后写了几题
+两数相乘=最大公约数x最小公倍数
 
 ### 第三周
 [洛谷p8807](https://www.luogu.com.cn/problem/P8807)
