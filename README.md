@@ -16,7 +16,7 @@ while(scanf(...))...
 
 ### 第三周
 [洛谷p8807 取模](https://www.luogu.com.cn/problem/P8807)
-[题解](https://www.luogu.com.cn/article/l692ya4j)
+  [题解](https://www.luogu.com.cn/article/l692ya4j)
 抽屉原理
 
 ### 第四周
