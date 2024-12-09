@@ -15,8 +15,7 @@ while(scanf(...))...
 两数相乘=最大公约数x最小公倍数
 
 ### 第三周
-[洛谷p8807](https://www.luogu.com.cn/problem/P8807)
-
+[洛谷p8807 取模](https://www.luogu.com.cn/problem/P8807)
 [题解](https://www.luogu.com.cn/article/l692ya4j)
 抽屉原理
 
