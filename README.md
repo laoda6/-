@@ -32,7 +32,9 @@ while(scanf(...))...
 [洛谷P1403 约数研究](https://www.luogu.com.cn/problem/P1403)  &nbsp;&nbsp;  某范围内某数倍数的个数
 
 ### 第六周
-[洛谷P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020)  &nbsp;&nbsp;  题解：[偏序集，哈斯图与Dilworth定理](https://www.luogu.com.cn/article/83nko7c2)  &nbsp;  将一个序列剖成若干个单调不升子序列的最小个数等于该序列最长上升子序列的个数
+[洛谷P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020)  &nbsp;&nbsp;  题解：[偏序集，哈斯图与Dilworth定理](https://www.luogu.com.cn/article/83nko7c2) 
+
+将一个序列剖成若干个单调不升子序列的最小个数等于该序列最长上升子序列的个数
 
 ### 第七周
 
