@@ -30,11 +30,11 @@ while(scanf(...))...
 [洛谷P1496 找筷子](https://www.luogu.com.cn/problem/P1469)  $~~$ 按位异或的性质
 
 ### 第五周
-[洛谷P1403 约数研究](https://www.luogu.com.cn/problem/P1403)  $~~$  某范围内某个数的倍数的个数
+[洛谷P1403 约数研究](https://www.luogu.com.cn/problem/P1403)  $~~$  某范围内某数倍数的个数
 
 ### 第六周
-[洛谷P2822 组合数问题](https://www.luogu.com.cn/problem/P2822)  $~~$  二维前缀和
+[洛谷P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020)  $~~$  题解：[偏序集，哈斯图与Dilworth定理](https://www.luogu.com.cn/article/83nko7c2)  $~~$  将一个序列剖成若干个单调不升子序列的最小个数等于该序列最长上升子序列的个数
 
 ### 第七周
-[洛谷P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020)  $~~$  题解：[偏序集，哈斯图与Dilworth定理](https://www.luogu.com.cn/article/83nko7c2)
+
 
