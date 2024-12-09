@@ -27,7 +27,7 @@ while(scanf(...))...
 抽屉原理
 
 ### 第四周
-[洛谷P1496 找筷子](https://www.luogu.com.cn/problem/P1469) 异或原理
+[洛谷P1496 找筷子](https://www.luogu.com.cn/problem/P1469)  $~~$ 按位异或的性质
 
 ### 第五周
 [洛谷P1403 约数研究](https://www.luogu.com.cn/problem/P1403)  $~~$  某范围内某个数的倍数的个数
