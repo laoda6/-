@@ -36,4 +36,5 @@ while(scanf(...))...
 [洛谷P2822 组合数问题](https://www.luogu.com.cn/problem/P2822)  $~~$  二维前缀和
 
 ### 第七周
+[洛谷P1020 导弹拦截](https://www.luogu.com.cn/problem/P1020)  $~~$  题解：[偏序集，哈斯图与Dilworth定理](https://www.luogu.com.cn/article/83nko7c2)
 
