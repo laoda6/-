@@ -43,7 +43,7 @@ while(scanf(...))...
 
 
 
-### 脑筋急转弯
+###  附 脑筋急转弯
 [P1007	独木桥](https://www.luogu.com.cn/problem/P1007)
 
 
