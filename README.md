@@ -46,6 +46,7 @@ while(scanf(...))...
 ###  附 脑筋急转弯
 [P1007	独木桥](https://www.luogu.com.cn/problem/P1007)
 
+
 ## 教训
 bool函数末尾返回值
 
