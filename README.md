@@ -47,10 +47,9 @@ while(scanf(...))...
 [P1007	独木桥](https://www.luogu.com.cn/problem/P1007)
 
 
-## 教训
+## idea
 bool函数末尾返回值
 
-idea
 组合字典序：i从1开始循环到n，以i为初始条件，递归时下一层从i开始循环（不是从1开始）
 素数哈希数组记得特判i=2
 
